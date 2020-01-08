@@ -1,6 +1,6 @@
 {
   "name": "rockset-querybuilder",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "A simple querybuilder to work with the rockset api",
   "main": "index.js",
   "scripts": {
