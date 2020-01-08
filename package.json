@@ -4,7 +4,7 @@
   "description": "A simple querybuilder to work with the rockset api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no test specified\""
   },
   "author": "Jonathan Olivares",
   "license": "ISC"
